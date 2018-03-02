@@ -1,2 +1,3 @@
-# Bayesian-Nonparametrics-For-Volatility-Clustering-and-Prediction
-Gibbs Sampling Algorithm for Time Series Segmentation and Prediction
+# Bayesian-Nonparametrics-For-Volatility-Clustering-and-Prediction-with-Application-to-Bitcoin-Prices
+
+This repositiory contains the code used to generate experimental results from the paper

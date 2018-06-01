@@ -1,10 +1,6 @@
-# Bayesian-Nonparametrics-For-Volatility-Clustering-and-Prediction-with-Application-to-Bitcoin-Prices
+# Bitcoin-Value-at-Risk
 
-This repositiory contains the code used to generate experimental results from the paper:
-
-Hensley, Asher A., and Petar M. Djurić. "Bayesian Nonparametrics for Volatility Clustering and Prediction with Application to Bitcoin Prices." European Signal Processing Conference (EUSIPCO), 2018 IEEE International Conference on. IEEE, 2018 (submitted).
-
-(see \_PAPER.pdf)
+see \_PAPER.pdf for overview of algorithm and experimental results.
 
 To generate synthetic data experiment results:
   1. run TRAIN\_SCRIPT\_synthetic.m
